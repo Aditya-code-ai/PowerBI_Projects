@@ -1,0 +1,73 @@
+😌 MoodSense Analytics Dashboard – Smart Wearable Integration
+This Power BI project visualizes physiological and behavioral data collected from a smart wearable band prototype, aimed at analyzing mood patterns, stress indicators, and well-being metrics.
+
+Developed as part of the Ideathon organized by NERDS Robotics Club, NIT Silchar, this dashboard forms the analytical front-end of the MoodSense system — an intelligent mood tracking solution using biosensors like GSR and HRV to monitor mental wellness in real time.
+
+🔁 This dashboard displays 30 days of personal health and mood data recorded from a single individual using the smart wearable band.
+
+🧠 Project Objective
+To visualize and interpret health & mood metrics from a smart band prototype using Power BI, providing real-time insights into stress, happiness, sleep quality, and physical activity.
+
+📊 Key Dashboard Features
+✅ KPI Cards (Top Metrics)
+Avg. Body Temperature (°C)
+
+Avg. Calories Burned
+
+Avg. Stress Level (0-100)
+
+Avg. Steps Count
+
+Avg. Sleep Quality (%)
+
+📈 Bio-Signal Trends
+GSR (Galvanic Skin Response) & HRV (Heart Rate Variability) trends over time
+
+Monitored across date ranges using time slicers
+
+🧩 Analysis Based on User Remarks
+Donut chart classification of user-submitted mood remarks (e.g., Energetic, Tired, Relaxed, etc.)
+
+Dynamically updates with filters
+
+🌡️ Body Temperature Distribution
+Bar chart showing frequency of temperature readings
+
+Correlated with mood remarks
+
+📅 Daily Mood Score vs Stress Level
+Multi-bar and line chart showing:
+
+Happiness Score segmented by time of day (Morning, Afternoon, Evening)
+
+Stress Level over time
+
+🎛️ Interactive Filters
+Date Range (30 Days)
+
+Time of Day
+
+Mood Type
+
+Location: Indoor / Outdoor
+
+💡 Ideathon Concept
+This dashboard is part of the MoodSense Smart Band concept presented at the NERDS Robotics Club Ideathon, NIT Silchar. The wearable collects biometric signals like:
+
+GSR (Skin Conductance)
+
+HRV (Heart Rhythm)
+
+Body Temperature
+
+Step Count
+
+Sleep Cycles
+
+The data is then analyzed via this Power BI dashboard to detect:
+
+Early signs of stress or fatigue
+
+Variations in sleep or physical activity
+
+Patterns linked to emotional states or environmental changes
