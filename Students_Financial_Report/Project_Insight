@@ -1,0 +1,42 @@
+📊 Student Finance Report – Power BI Dashboard
+Description:
+An interactive Power BI dashboard analyzing income, expenses, savings, and financial challenges of students across India.
+It identifies spending patterns, debt risks, and savings trends, with data-driven recommendations to improve student financial health.
+
+🔍 Key Insights
+Tier-1 students have high income but low savings → Overspending risk
+
+21.9% of students are in debt
+
+Rent consumes up to 50% of income in Tier-1 cities
+
+Entertainment expenses reduce overall savings potential
+
+📂 Dashboard Sections
+Overview – KPIs, demographics, and city distribution
+
+Income Insights – Top cities, part-time income ranges, income sources by tier
+
+Expense Analysis – City/category spending, expense proportions, income vs. savings
+
+Savings & Challenges – Debt percentage, tier-wise savings, major challenges
+
+Recommendations & Insights – Steps to boost savings and reduce financial stress
+
+🛠 Tools & Techniques Used
+Power BI – Dashboard creation & interactive reporting
+
+Power Query – Data cleaning & transformation
+
+DAX – Calculated measures & KPIs
+
+Data Modeling – Relationships between multiple data tables
+
+Visualizations – Treemap, bar chart, gauge, bubble chart, map, KPI cards
+
+🎯 Use Case
+Educational institutions to design financial literacy programs
+
+Student welfare departments to identify and assist at-risk students
+
+Policy makers to address city-specific or tier-specific financial challenges
